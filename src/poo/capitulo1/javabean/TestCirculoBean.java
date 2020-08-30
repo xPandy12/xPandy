@@ -25,7 +25,7 @@ public class TestCirculoBean {
         JOptionPane.showMessageDialog(null, "El circulo tiene un radio de "+ circulo1.getRadio()+
                                       " el diametro es "+ circulo1.getDiametro()+
                                       " el area es " +circulo1.getArea());
-        */
+       dddddd */
         System.out.println(Boolean.logicalAnd(true, false));
         System.out.println(Integer.toBinaryString(4));
         System.out.println(Integer.min(5, 8));
